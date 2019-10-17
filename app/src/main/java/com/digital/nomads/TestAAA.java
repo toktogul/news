@@ -1,4 +1,4 @@
 package com.digital.nomads;
 
-public class TestAAA {
-}
+public class TestAAA{}
+class TestAAAAA{}
